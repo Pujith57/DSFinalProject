@@ -1,0 +1,29 @@
+#### Sources List for Variational Data Structures Project
+
+## Basic Stack Implementations
+- Java Stack Class Documentation: https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
+- Tutorial on Java Stack Operations: https://www.baeldung.com/java-stack
+
+## Variational Programming Libraries
+- FeatureIDE: An Eclipse-based development framework for Feature-Oriented Software Development (FOSD): https://featureide.github.io/
+- A Library for Feature Modeling and Program Configuration: https://dl.acm.org/doi/10.1145/3233027.3233030
+
+## Concurrent and Lock-Free Data Structures
+- Concurrent Stacks in Java: https://www.oracle.com/technical-resources/articles/javase/concurrency.html
+- Lock-Free Programming in Java: https://www.baeldung.com/java-lock-free-programming
+
+## Variational Data Structures and Algorithms
+- Introduction to Variational Data Structures: https://variabilitymodeling.github.io/
+- A Choice of Variational Stacks, Proceedings of the 11th International Workshop on Variability Modelling of Software-Intensive Systems: https://dl.acm.org/doi/abs/10.1145/3023956.3023966
+
+## Stack Overflow Discussions and Code Snippets
+- Implementing a Custom Stack in Java: https://stackoverflow.com/questions/12524826/how-to-implement-a-stack-in-java
+- Conditional Logic in Stack Operations: https://stackoverflow.com/questions/5723095/conditional-logic-in-stack-operations
+
+## GitHub Repositories
+- Example Java Stack Implementation: https://github.com/example/java-stack-implementation
+- FeatureIDE GitHub Repository: https://github.com/FeatureIDE/FeatureIDE
+
+## Additional Resources
+- Effective Java, 3rd Edition, by Joshua Bloch: Provides insights on writing clean and efficient Java code.
+- Java Concurrency in Practice, by Brian Goetz: Offers in-depth knowledge on concurrent programming in Java.
